@@ -17,5 +17,7 @@ public class LeapYearCalculator {
             System.out.println(year + " bir artık yıldır değildir!");
 
         }
+
+        scanner.close();
     }
 }
